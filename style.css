@@ -1,3 +1,8 @@
+
+
+
+
+
 body {
 	background: white:
 }
@@ -32,4 +37,19 @@ em strong {
 
 .beneficios{
 	background-color: white;
+}
+
+h2{
+text-align: center;
+
+}
+.imagembeneficios{
+	width: 50%;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 25%;
+	margin-right: 15px;
 }
